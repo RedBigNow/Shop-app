@@ -12,7 +12,7 @@ import Product from '@/pages/Product'
 
 // Routering
 export default new Router ({
-    mode: 'history',
+    //mode: 'history',
     routes: [
         {
             path: '/',
