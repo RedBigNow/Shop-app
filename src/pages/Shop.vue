@@ -2,7 +2,7 @@
     <div class="wrapper-content wrapper-content--fixed">
         <section>
             <div class="container">
-                <h1 class="title">Shop page</h1>
+                <h1 class="title">Каталог</h1>
                 <div class="item__wrapper">
                     <shopItem 
                         v-for="product in shopList"

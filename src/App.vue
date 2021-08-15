@@ -25,8 +25,8 @@ export default {
     data () {
         return {
             links: [
-                { title: 'Home', url: '/' },
-                { title: 'Shop', url: '/shop' }
+                { title: 'Главная', url: '/' },
+                { title: 'Каталог', url: '/shop' }
             ]
         }
     }
