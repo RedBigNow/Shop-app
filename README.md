@@ -1,5 +1,6 @@
-# vue-cli
-
+# Shop App (Vue.js 2)
+## Demo:
+https://redbignow.github.io/Shop-app/dist/index.html
 ## Project setup
 ```
 npm install
